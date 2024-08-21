@@ -1,0 +1,11 @@
+- Number : 1234, 3.14, 3+4j, Decimal(), Fraction()...
+- String : 'spam', "Bob's", b'a\xi01c'
+- List : [1, 2], [1, 2, ["hello", 1]], list(range(10))
+- Tuple : (1, 'spam'), tuple('spam')
+- Dictionary : {"food":"chai", "taste":"sweet"} dict(hours=10)
+- Sets : unique value set('abc'), {'a', 'b', 'c'}
+- File : open(eggs.txt), open(r'c:\ham.bin', 'wb')
+- Boolean : True, False
+- None : none
+- Function, Module, classes
+- Advance : decorators, iterators, generators, meta programming
